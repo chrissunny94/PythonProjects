@@ -1,0 +1,9 @@
+
+1) sudo apt-get install libboost-python-dev cmake
+
+2) cd to dlib-18.15/python_examples
+
+3) ./compile_dlib_python_module.bat 
+
+4) sudo cp dlib.so /usr/local/lib/python2.7/dist-packages/
+
