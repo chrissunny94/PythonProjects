@@ -1,0 +1,2 @@
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/dlib_build/CMakeFiles/dlib.dir
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/CMakeFiles/dlib_.dir
