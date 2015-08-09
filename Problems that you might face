@@ -1,0 +1,20 @@
+This file is to note down all the problems you have faced .
+Please follow the same format while updating the file
+                                                          Edit-Chris Sunny
+**********************************************************************************************************************************************************************************************
+
+
+
+
+1) 	Date 9-8-2015 Time -11:36PM
+
+	Error- 	
+		Package python-scipy is not available, but is referred to by another package.	
+		This may mean that the package is missing, has been obsoleted, oris only available from another sourceE: 
+		Package 'python-scipy' has no installation candidate
+
+
+	Solution -
+		Try changing the server in to the main server
+			http://askubuntu.com/questions/104695/how-do-i-change-mirrors-in-ubuntu-server-from-regional-to-main
+
