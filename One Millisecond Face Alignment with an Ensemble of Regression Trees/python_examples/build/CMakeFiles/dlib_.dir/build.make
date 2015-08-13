@@ -417,6 +417,29 @@ CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o.provides: CMakeFiles/dlib_.di
 
 CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o.provides.build: CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o
 
+CMakeFiles/dlib_.dir/src/gui.cpp.o: CMakeFiles/dlib_.dir/flags.make
+CMakeFiles/dlib_.dir/src/gui.cpp.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/tools/python/src/gui.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_17)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/dlib_.dir/src/gui.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib_.dir/src/gui.cpp.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/gui.cpp"
+
+CMakeFiles/dlib_.dir/src/gui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib_.dir/src/gui.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/gui.cpp" > CMakeFiles/dlib_.dir/src/gui.cpp.i
+
+CMakeFiles/dlib_.dir/src/gui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib_.dir/src/gui.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/gui.cpp" -o CMakeFiles/dlib_.dir/src/gui.cpp.s
+
+CMakeFiles/dlib_.dir/src/gui.cpp.o.requires:
+.PHONY : CMakeFiles/dlib_.dir/src/gui.cpp.o.requires
+
+CMakeFiles/dlib_.dir/src/gui.cpp.o.provides: CMakeFiles/dlib_.dir/src/gui.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dlib_.dir/build.make CMakeFiles/dlib_.dir/src/gui.cpp.o.provides.build
+.PHONY : CMakeFiles/dlib_.dir/src/gui.cpp.o.provides
+
+CMakeFiles/dlib_.dir/src/gui.cpp.o.provides.build: CMakeFiles/dlib_.dir/src/gui.cpp.o
+
 # Object files for target dlib_
 dlib__OBJECTS = \
 "CMakeFiles/dlib_.dir/src/dlib.cpp.o" \
@@ -434,7 +457,8 @@ dlib__OBJECTS = \
 "CMakeFiles/dlib_.dir/src/rectangles.cpp.o" \
 "CMakeFiles/dlib_.dir/src/object_detection.cpp.o" \
 "CMakeFiles/dlib_.dir/src/shape_predictor.cpp.o" \
-"CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o"
+"CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o" \
+"CMakeFiles/dlib_.dir/src/gui.cpp.o"
 
 # External object files for target dlib_
 dlib__EXTERNAL_OBJECTS =
@@ -455,12 +479,16 @@ dlib.so: CMakeFiles/dlib_.dir/src/rectangles.cpp.o
 dlib.so: CMakeFiles/dlib_.dir/src/object_detection.cpp.o
 dlib.so: CMakeFiles/dlib_.dir/src/shape_predictor.cpp.o
 dlib.so: CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o
+dlib.so: CMakeFiles/dlib_.dir/src/gui.cpp.o
 dlib.so: CMakeFiles/dlib_.dir/build.make
 dlib.so: /usr/lib/x86_64-linux-gnu/libboost_python.so
 dlib.so: /usr/lib/x86_64-linux-gnu/libpython2.7.so
 dlib.so: dlib_build/libdlib.a
 dlib.so: /usr/lib/x86_64-linux-gnu/libpthread.so
 dlib.so: /usr/lib/x86_64-linux-gnu/libnsl.so
+dlib.so: /usr/lib/x86_64-linux-gnu/libSM.so
+dlib.so: /usr/lib/x86_64-linux-gnu/libICE.so
+dlib.so: /usr/lib/x86_64-linux-gnu/libX11.so
 dlib.so: CMakeFiles/dlib_.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX shared library dlib.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dlib_.dir/link.txt --verbose=$(VERBOSE)
@@ -485,6 +513,7 @@ CMakeFiles/dlib_.dir/requires: CMakeFiles/dlib_.dir/src/rectangles.cpp.o.require
 CMakeFiles/dlib_.dir/requires: CMakeFiles/dlib_.dir/src/object_detection.cpp.o.requires
 CMakeFiles/dlib_.dir/requires: CMakeFiles/dlib_.dir/src/shape_predictor.cpp.o.requires
 CMakeFiles/dlib_.dir/requires: CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o.requires
+CMakeFiles/dlib_.dir/requires: CMakeFiles/dlib_.dir/src/gui.cpp.o.requires
 .PHONY : CMakeFiles/dlib_.dir/requires
 
 CMakeFiles/dlib_.dir/clean:

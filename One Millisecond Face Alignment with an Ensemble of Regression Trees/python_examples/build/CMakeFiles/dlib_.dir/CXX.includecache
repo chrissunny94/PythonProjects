@@ -1658,6 +1658,492 @@ limits
 ../serialize.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/serialize.h
 
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+platform.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/platform.h
+gui_core/windows.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/windows.h
+gui_core/xlib.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/xlib.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_1.cpp
+../platform.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/platform.h
+gui_core_kernel_1.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_1.h
+sstream
+-
+../threads.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
+../assert.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/assert.h
+../queue.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/queue.h
+../sync_extension.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension.h
+../queue.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/queue.h
+../logger.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/logger.h
+cmath
+-
+vector
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_1.h
+string
+-
+../windows_magic.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/windows_magic.h
+windows.h
+-
+winuser.h
+-
+windowsx.h
+-
+commctrl.h
+-
+gui_core_kernel_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_abstract.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../sync_extension.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension.h
+../binary_search_tree.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/binary_search_tree.h
+../threads.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
+../geometry/rectangle.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/geometry/rectangle.h
+../assert.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/assert.h
+../queue.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/queue.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+../smart_pointers_thread_safe.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers_thread_safe.h
+gui_core_kernel_1.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_1.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_2.cpp
+../platform.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/platform.h
+gui_core_kernel_2.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_2.h
+X11/Xlib.h
+-
+X11/Xutil.h
+-
+X11/keysym.h
+-
+X11/Xlocale.h
+-
+X11/XKBlib.h
+-
+poll.h
+-
+iostream
+-
+../assert.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/assert.h
+../queue.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/queue.h
+cstring
+-
+cmath
+-
+X11/Xatom.h
+-
+../sync_extension.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension.h
+../logger.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/logger.h
+vector
+-
+set
+-
+../smart_pointers_thread_safe.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers_thread_safe.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_2.h
+string
+-
+gui_core_kernel_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_abstract.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../threads.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
+../geometry/rectangle.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/geometry/rectangle.h
+../binary_search_tree.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/binary_search_tree.h
+string.h
+-
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+gui_core_kernel_2.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_2.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_abstract.h
+string
+-
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../geometry/rectangle_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/geometry/rectangle_abstract.h
+../unicode/unicode_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode/unicode_abstract.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/windows.h
+gui_core_kernel_1.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_1.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/xlib.h
+gui_core_kernel_2.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core/gui_core_kernel_2.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets.h
+gui_widgets/widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets.cpp
+base_widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets.h
+../assert.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/assert.h
+iostream
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets.h
+base_widgets_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets_abstract.h
+drawable.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../member_function_pointer.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/member_function_pointer.h
+../timer.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/timer.h
+../map.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/map.h
+../set.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/set.h
+../array2d.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array2d.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+../image_transforms/assign_image.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_transforms/assign_image.h
+../array.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array.h
+style.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.h
+../smart_pointers.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+cctype
+-
+../any.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/any.h
+base_widgets.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets_abstract.h
+fonts_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts_abstract.h
+drawable_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+string
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.cpp
+canvas_drawing.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.h
+canvas_drawing_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../array2d.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array2d.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+../image_transforms/assign_image.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_transforms/assign_image.h
+../geometry.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/geometry.h
+cmath
+-
+canvas_drawing.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.cpp
+drawable.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.h
+algorithm
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.h
+drawable_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+../set.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/set.h
+../binary_search_tree.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/binary_search_tree.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+fonts.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.h
+../matrix.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/matrix.h
+canvas_drawing.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.h
+drawable.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+fonts_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts_abstract.h
+canvas_drawing_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing_abstract.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.cpp
+fonts.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.h
+../serialize.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/serialize.h
+sstream
+-
+../base64.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/base64.h
+../compress_stream.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/compress_stream.h
+fstream
+-
+../tokenizer.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/tokenizer.h
+nativefont.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/nativefont.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.h
+fonts_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+string
+-
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../serialize.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/serialize.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+../array.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array.h
+../array2d.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array2d.h
+../threads.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
+../smart_pointers_thread_safe.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers_thread_safe.h
+fonts.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+string
+-
+../serialize.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/serialize.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+iostream
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/nativefont.h
+../platform.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/platform.h
+../gui_widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets.h
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+../smart_pointers_thread_safe.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers_thread_safe.h
+../uintn.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/uintn.h
+map
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+locale.h
+-
+windows.h
+-
+mbstring.h
+-
+stdint.h
+-
+stdio.h
+-
+string.h
+-
+X11/Xlib.h
+-
+X11/Xutil.h
+-
+X11/Xlocale.h
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.cpp
+style.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+style_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+canvas_drawing.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/canvas_drawing.h
+string
+-
+sstream
+-
+../unicode.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode.h
+../array2d.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array2d.h
+../pixel.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/pixel.h
+fonts.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.h
+style.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style_abstract.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+widgets_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets_abstract.h
+../unicode/unicode_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/unicode/unicode_abstract.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets.cpp
+widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets.h
+algorithm
+-
+../string.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/string.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+widgets_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets_abstract.h
+drawable.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+fonts.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts.h
+string
+-
+sstream
+-
+../timer.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/timer.h
+base_widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets.h
+../member_function_pointer.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/member_function_pointer.h
+../array.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array.h
+../array2d.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/array2d.h
+../sequence.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sequence.h
+../dir_nav.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/dir_nav.h
+../queue.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/queue.h
+../smart_pointers.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/smart_pointers.h
+style.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style.h
+../string.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/string.h
+../misc_api.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/misc_api.h
+cctype
+-
+vector
+-
+../any.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/any.h
+set
+-
+../image_processing/full_object_detection.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/full_object_detection.h
+widgets.cpp
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets.cpp
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/widgets_abstract.h
+fonts_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/fonts_abstract.h
+drawable_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/drawable_abstract.h
+base_widgets_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/base_widgets_abstract.h
+../gui_core.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_core.h
+string
+-
+map
+-
+../interfaces/enumerable.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/interfaces/enumerable.h
+style_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets/style_abstract.h
+../image_processing/full_object_detection_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/full_object_detection_abstract.h
+
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/hash.h
 general_hash/hash.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/general_hash/hash.h
@@ -2211,6 +2697,22 @@ scan_fhog_pyramid_abstract.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/svm/structural_object_detection_trainer_abstract.h
 ../geometry.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/geometry.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/render_face_detections.h
+full_object_detection.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/full_object_detection.h
+../gui_widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets.h
+render_face_detections_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/render_face_detections_abstract.h
+vector
+-
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/render_face_detections_abstract.h
+full_object_detection_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/full_object_detection_abstract.h
+../gui_widgets.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/gui_widgets.h
 
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/image_processing/scan_fhog_pyramid.h
 scan_fhog_pyramid_abstract.h
@@ -7160,6 +7662,28 @@ svm/one_vs_all_trainer.h
 svm/structural_sequence_segmentation_trainer.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/svm/structural_sequence_segmentation_trainer.h
 
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension.h
+sync_extension/sync_extension_kernel_1.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension/sync_extension_kernel_1.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension/sync_extension_kernel_1.h
+../threads.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+sync_extension_kernel_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension/sync_extension_kernel_abstract.h
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/sync_extension/sync_extension_kernel_abstract.h
+../threads/threads_kernel_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads/threads_kernel_abstract.h
+../threads/rmutex_extension_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads/rmutex_extension_abstract.h
+../threads/rsignaler_extension_abstract.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads/rsignaler_extension_abstract.h
+../algs.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/algs.h
+
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads.h
 threads/threads_kernel.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/../dlib/threads/threads_kernel.h
@@ -7811,6 +8335,22 @@ dlib/svm.h
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/dlib.cpp
 boost/python.hpp
 -
+
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/gui.cpp
+dlib/python.h
+-
+boost/python/args.hpp
+-
+dlib/geometry.h
+-
+dlib/image_processing/frontal_face_detector.h
+-
+dlib/image_processing/render_face_detections.h
+-
+dlib/gui_widgets.h
+-
+simple_object_detector_py.h
+/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/simple_object_detector_py.h
 
 /home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python/src/image.cpp
 dlib/python.h

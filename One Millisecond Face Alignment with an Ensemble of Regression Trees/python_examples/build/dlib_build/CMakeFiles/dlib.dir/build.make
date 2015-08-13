@@ -923,9 +923,193 @@ dlib_build/CMakeFiles/dlib.dir/stack_trace.o.provides: dlib_build/CMakeFiles/dli
 
 dlib_build/CMakeFiles/dlib.dir/stack_trace.o.provides.build: dlib_build/CMakeFiles/dlib.dir/stack_trace.o
 
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/fonts.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_39)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/fonts.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/fonts.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/fonts.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/fonts.cpp" > CMakeFiles/dlib.dir/gui_widgets/fonts.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/fonts.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/fonts.cpp" -o CMakeFiles/dlib.dir/gui_widgets/fonts.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/widgets.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_40)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/widgets.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/widgets.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/widgets.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/widgets.cpp" > CMakeFiles/dlib.dir/gui_widgets/widgets.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/widgets.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/widgets.cpp" -o CMakeFiles/dlib.dir/gui_widgets/widgets.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/drawable.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_41)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/drawable.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/drawable.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/drawable.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/drawable.cpp" > CMakeFiles/dlib.dir/gui_widgets/drawable.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/drawable.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/drawable.cpp" -o CMakeFiles/dlib.dir/gui_widgets/drawable.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/canvas_drawing.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_42)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/canvas_drawing.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/canvas_drawing.cpp" > CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/canvas_drawing.cpp" -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/style.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_43)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/style.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/style.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/style.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/style.cpp" > CMakeFiles/dlib.dir/gui_widgets/style.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/style.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/style.cpp" -o CMakeFiles/dlib.dir/gui_widgets/style.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_widgets/base_widgets.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_44)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/base_widgets.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/base_widgets.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/base_widgets.cpp" > CMakeFiles/dlib.dir/gui_widgets/base_widgets.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/base_widgets.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_widgets/base_widgets.cpp" -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_core/gui_core_kernel_1.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_45)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_1.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_1.cpp" > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_1.cpp" -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o: dlib_build/CMakeFiles/dlib.dir/flags.make
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/gui_core/gui_core_kernel_2.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_46)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_2.cpp"
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.i"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_2.cpp" > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.i
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.s"
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/gui_core/gui_core_kernel_2.cpp" -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.s
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.requires:
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.requires
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.provides: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.requires
+	$(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.provides.build
+.PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.provides
+
+dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.provides.build: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o
+
 dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/png.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_39)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_47)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/png.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/png.c"
 
@@ -948,7 +1132,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o.provides.build: dlib_build/
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngerror.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_40)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_48)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngerror.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngerror.c"
 
@@ -971,7 +1155,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngget.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_41)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_49)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngget.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngget.c"
 
@@ -994,7 +1178,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngmem.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_42)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_50)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngmem.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngmem.c"
 
@@ -1017,7 +1201,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngpread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_43)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_51)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngpread.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngpread.c"
 
@@ -1040,7 +1224,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_44)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_52)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngread.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngread.c"
 
@@ -1063,7 +1247,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngrio.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_45)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_53)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngrio.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngrio.c"
 
@@ -1086,7 +1270,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngrtran.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_46)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_54)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngrtran.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngrtran.c"
 
@@ -1109,7 +1293,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngrutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_47)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_55)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngrutil.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngrutil.c"
 
@@ -1132,7 +1316,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngset.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_48)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_56)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngset.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngset.c"
 
@@ -1155,7 +1339,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngtrans.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_49)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_57)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngtrans.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngtrans.c"
 
@@ -1178,7 +1362,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngwio.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_50)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_58)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngwio.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngwio.c"
 
@@ -1201,7 +1385,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngwrite.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_51)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_59)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngwrite.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngwrite.c"
 
@@ -1224,7 +1408,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngwtran.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_52)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_60)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngwtran.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngwtran.c"
 
@@ -1247,7 +1431,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libpng/pngwutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_53)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_61)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libpng/pngwutil.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng/pngwutil.c"
 
@@ -1270,7 +1454,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/adler32.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_54)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_62)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/adler32.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/adler32.c"
 
@@ -1293,7 +1477,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/compress.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_55)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_63)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/compress.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/compress.c"
 
@@ -1316,7 +1500,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/crc32.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_56)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_64)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/crc32.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/crc32.c"
 
@@ -1339,7 +1523,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.o.provides.build: dlib_build/
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/deflate.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_57)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_65)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/deflate.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/deflate.c"
 
@@ -1362,7 +1546,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/gzclose.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_58)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_66)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/gzclose.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/gzclose.c"
 
@@ -1385,7 +1569,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/gzlib.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_59)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_67)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/gzlib.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/gzlib.c"
 
@@ -1408,7 +1592,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.o.provides.build: dlib_build/
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/gzread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_60)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_68)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/gzread.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/gzread.c"
 
@@ -1431,7 +1615,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.o.provides.build: dlib_build
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/gzwrite.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_61)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_69)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/gzwrite.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/gzwrite.c"
 
@@ -1454,7 +1638,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/infback.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_62)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_70)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/infback.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/infback.c"
 
@@ -1477,7 +1661,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/inffast.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_63)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_71)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/inffast.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/inffast.c"
 
@@ -1500,7 +1684,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/inflate.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_64)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_72)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/inflate.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/inflate.c"
 
@@ -1523,7 +1707,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/inftrees.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_65)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_73)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/inftrees.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/inftrees.c"
 
@@ -1546,7 +1730,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.o.provides.build: dlib_bui
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/trees.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_66)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_74)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/trees.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/trees.c"
 
@@ -1569,7 +1753,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.o.provides.build: dlib_build/
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/uncompr.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_67)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_75)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/uncompr.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/uncompr.c"
 
@@ -1592,7 +1776,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.o.provides.build: dlib_buil
 
 dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/zlib/zutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_68)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_76)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/zlib/zutil.o   -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib/zutil.c"
 
@@ -1615,7 +1799,7 @@ dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.o.provides.build: dlib_build/
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/image_loader/png_loader.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_69)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_77)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/png_loader.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/image_loader/png_loader.cpp"
 
@@ -1638,7 +1822,7 @@ dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/image_saver/save_png.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_70)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_78)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_png.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/image_saver/save_png.cpp"
 
@@ -1661,7 +1845,7 @@ dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.o.provides.build: dlib_build
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcomapi.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_71)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_79)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcomapi.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcomapi.cpp"
 
@@ -1684,7 +1868,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdapimin.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_72)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_80)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapimin.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdapimin.cpp"
 
@@ -1707,7 +1891,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdapistd.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_73)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_81)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapistd.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdapistd.cpp"
 
@@ -1730,7 +1914,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdatasrc.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_74)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_82)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdatasrc.cpp"
 
@@ -1753,7 +1937,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdcoefct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_75)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_83)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdcoefct.cpp"
 
@@ -1776,7 +1960,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdcolor.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_76)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_84)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcolor.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdcolor.cpp"
 
@@ -1799,7 +1983,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jddctmgr.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_77)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_85)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jddctmgr.cpp"
 
@@ -1822,7 +2006,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdhuff.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_78)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_86)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdhuff.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdhuff.cpp"
 
@@ -1845,7 +2029,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdinput.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_79)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_87)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdinput.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdinput.cpp"
 
@@ -1868,7 +2052,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdmainct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_80)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_88)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmainct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdmainct.cpp"
 
@@ -1891,7 +2075,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdmarker.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_81)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_89)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmarker.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdmarker.cpp"
 
@@ -1914,7 +2098,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdmaster.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_82)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_90)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmaster.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdmaster.cpp"
 
@@ -1937,7 +2121,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdmerge.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_83)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_91)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmerge.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdmerge.cpp"
 
@@ -1960,7 +2144,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdphuff.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdphuff.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdphuff.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_84)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_92)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdphuff.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdphuff.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdphuff.cpp"
 
@@ -1983,7 +2167,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdphuff.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdpostct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_85)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_93)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdpostct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdpostct.cpp"
 
@@ -2006,7 +2190,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdsample.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_86)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_94)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdsample.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdsample.cpp"
 
@@ -2029,7 +2213,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jerror.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_87)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_95)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jerror.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jerror.cpp"
 
@@ -2052,7 +2236,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jidctflt.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_88)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_96)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctflt.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jidctflt.cpp"
 
@@ -2075,7 +2259,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jidctfst.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_89)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_97)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctfst.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jidctfst.cpp"
 
@@ -2098,7 +2282,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jidctint.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_90)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_98)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctint.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jidctint.cpp"
 
@@ -2121,7 +2305,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctred.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctred.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jidctred.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_91)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_99)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctred.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctred.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jidctred.cpp"
 
@@ -2144,7 +2328,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctred.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jmemmgr.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_92)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_100)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jmemmgr.cpp"
 
@@ -2167,7 +2351,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jmemnobs.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_93)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_101)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jmemnobs.cpp"
 
@@ -2190,7 +2374,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jquant1.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_94)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_102)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant1.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jquant1.cpp"
 
@@ -2213,7 +2397,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jquant2.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_95)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_103)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant2.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jquant2.cpp"
 
@@ -2236,7 +2420,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jutils.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_96)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_104)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jutils.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jutils.cpp"
 
@@ -2259,7 +2443,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcapimin.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_97)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_105)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapimin.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcapimin.cpp"
 
@@ -2282,7 +2466,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jdatadst.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_98)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_106)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatadst.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jdatadst.cpp"
 
@@ -2305,7 +2489,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcparam.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_99)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_107)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcparam.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcparam.cpp"
 
@@ -2328,7 +2512,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcapistd.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_100)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_108)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapistd.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcapistd.cpp"
 
@@ -2351,7 +2535,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcmarker.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_101)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_109)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmarker.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcmarker.cpp"
 
@@ -2374,7 +2558,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcinit.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_102)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_110)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcinit.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcinit.cpp"
 
@@ -2397,7 +2581,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcmaster.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_103)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_111)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmaster.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcmaster.cpp"
 
@@ -2420,7 +2604,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcdctmgr.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_104)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_112)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcdctmgr.cpp"
 
@@ -2443,7 +2627,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jccoefct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_105)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_113)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccoefct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jccoefct.cpp"
 
@@ -2466,7 +2650,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jccolor.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_106)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_114)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccolor.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jccolor.cpp"
 
@@ -2489,7 +2673,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jchuff.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_107)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_115)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jchuff.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jchuff.cpp"
 
@@ -2512,7 +2696,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.o.provides.build: dlib_bu
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcmainct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_108)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_116)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmainct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcmainct.cpp"
 
@@ -2535,7 +2719,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcphuff.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcphuff.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcphuff.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_109)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_117)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcphuff.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcphuff.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcphuff.cpp"
 
@@ -2558,7 +2742,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcphuff.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcprepct.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_110)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_118)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcprepct.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcprepct.cpp"
 
@@ -2581,7 +2765,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jcsample.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_111)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_119)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcsample.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jcsample.cpp"
 
@@ -2604,7 +2788,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jfdctint.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_112)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_120)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctint.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jfdctint.cpp"
 
@@ -2627,7 +2811,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jfdctflt.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_113)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_121)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jfdctflt.cpp"
 
@@ -2650,7 +2834,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/external/libjpeg/jfdctfst.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_114)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_122)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libjpeg/jfdctfst.cpp"
 
@@ -2673,7 +2857,7 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.o.provides.build: dlib_
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/image_loader/jpeg_loader.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_115)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_123)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/jpeg_loader.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/image_loader/jpeg_loader.cpp"
 
@@ -2696,7 +2880,7 @@ dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.o.provides.build: dlib_b
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.o: dlib_build/CMakeFiles/dlib.dir/flags.make
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.o: /home/stuxnet/Desktop/projecthumeur/One\ Millisecond\ Face\ Alignment\ with\ an\ Ensemble\ of\ Regression\ Trees/dlib/image_saver/save_jpeg.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_116)
+	$(CMAKE_COMMAND) -E cmake_progress_report "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/CMakeFiles" $(CMAKE_PROGRESS_124)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.o"
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build/dlib_build" && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_jpeg.o -c "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/image_saver/save_jpeg.cpp"
 
@@ -2757,6 +2941,14 @@ dlib_OBJECTS = \
 "CMakeFiles/dlib.dir/threads/thread_pool_extension.o" \
 "CMakeFiles/dlib.dir/timer/timer.o" \
 "CMakeFiles/dlib.dir/stack_trace.o" \
+"CMakeFiles/dlib.dir/gui_widgets/fonts.o" \
+"CMakeFiles/dlib.dir/gui_widgets/widgets.o" \
+"CMakeFiles/dlib.dir/gui_widgets/drawable.o" \
+"CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o" \
+"CMakeFiles/dlib.dir/gui_widgets/style.o" \
+"CMakeFiles/dlib.dir/gui_widgets/base_widgets.o" \
+"CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o" \
+"CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o" \
 "CMakeFiles/dlib.dir/external/libpng/png.o" \
 "CMakeFiles/dlib.dir/external/libpng/pngerror.o" \
 "CMakeFiles/dlib.dir/external/libpng/pngget.o" \
@@ -2877,6 +3069,14 @@ dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shar
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.o
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/timer/timer.o
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/stack_trace.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o
+dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o
 dlib_build/libdlib.a: dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o
@@ -3003,6 +3203,14 @@ dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/threads/
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.o.requires
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/timer/timer.o.requires
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/stack_trace.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o.requires
+dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o.requires
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/external/libpng/png.o.requires
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.o.requires
 dlib_build/CMakeFiles/dlib.dir/requires: dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.o.requires

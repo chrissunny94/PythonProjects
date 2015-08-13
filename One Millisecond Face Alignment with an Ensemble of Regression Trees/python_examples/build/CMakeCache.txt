@@ -44,7 +44,7 @@ CMAKE_COLOR_MAKEFILE:BOOL=ON
 CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
 
 //Flags used by the compiler during all C++ builds.
-CMAKE_CXX_FLAGS:STRING= -DDLIB_PNG_SUPPORT -DDLIB_JPEG_SUPPORT -DDLIB_NO_GUI_SUPPORT
+CMAKE_CXX_FLAGS:STRING= -DDLIB_PNG_SUPPORT -DDLIB_JPEG_SUPPORT
 
 //Flags used by the compiler during C++ debug builds.
 CMAKE_CXX_FLAGS_DEBUG:STRING=-g -DENABLE_ASSERTS
@@ -207,7 +207,7 @@ DLIB_LINK_WITH_SQLITE3:STRING=OFF
 
 //Enable this if you don't want to compile any of the dlib GUI
 // code
-DLIB_NO_GUI_SUPPORT:STRING=ON
+DLIB_NO_GUI_SUPPORT:BOOL=OFF
 
 //Disable this if you don't want to use a BLAS library
 DLIB_USE_BLAS:STRING=OFF
@@ -270,22 +270,22 @@ USE_SSE2_INSTRUCTIONS:BOOL=OFF
 USE_SSE4_INSTRUCTIONS:BOOL=OFF
 
 //Path to a file.
-X11_ICE_INCLUDE_PATH:PATH=X11_ICE_INCLUDE_PATH-NOTFOUND
+X11_ICE_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_ICE_LIB:FILEPATH=X11_ICE_LIB-NOTFOUND
+X11_ICE_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libICE.so
 
 //Path to a file.
-X11_SM_INCLUDE_PATH:PATH=X11_SM_INCLUDE_PATH-NOTFOUND
+X11_SM_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_SM_LIB:FILEPATH=X11_SM_LIB-NOTFOUND
+X11_SM_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libSM.so
 
 //Path to a file.
-X11_X11_INCLUDE_PATH:PATH=X11_X11_INCLUDE_PATH-NOTFOUND
+X11_X11_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_X11_LIB:FILEPATH=X11_X11_LIB-NOTFOUND
+X11_X11_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libX11.so
 
 //Path to a file.
 X11_XRes_INCLUDE_PATH:PATH=X11_XRes_INCLUDE_PATH-NOTFOUND
@@ -309,13 +309,13 @@ X11_XTest_LIB:FILEPATH=X11_XTest_LIB-NOTFOUND
 X11_Xaccessrules_INCLUDE_PATH:PATH=X11_Xaccessrules_INCLUDE_PATH-NOTFOUND
 
 //Path to a file.
-X11_Xaccessstr_INCLUDE_PATH:PATH=X11_Xaccessstr_INCLUDE_PATH-NOTFOUND
+X11_Xaccessstr_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a file.
-X11_Xau_INCLUDE_PATH:PATH=X11_Xau_INCLUDE_PATH-NOTFOUND
+X11_Xau_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_Xau_LIB:FILEPATH=X11_Xau_LIB-NOTFOUND
+X11_Xau_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libXau.so
 
 //Path to a file.
 X11_Xcomposite_INCLUDE_PATH:PATH=X11_Xcomposite_INCLUDE_PATH-NOTFOUND
@@ -336,10 +336,10 @@ X11_Xdamage_INCLUDE_PATH:PATH=X11_Xdamage_INCLUDE_PATH-NOTFOUND
 X11_Xdamage_LIB:FILEPATH=X11_Xdamage_LIB-NOTFOUND
 
 //Path to a file.
-X11_Xdmcp_INCLUDE_PATH:PATH=X11_Xdmcp_INCLUDE_PATH-NOTFOUND
+X11_Xdmcp_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_Xdmcp_LIB:FILEPATH=X11_Xdmcp_LIB-NOTFOUND
+X11_Xdmcp_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libXdmcp.so
 
 //Path to a library.
 X11_Xext_LIB:FILEPATH=X11_Xext_LIB-NOTFOUND
@@ -375,7 +375,7 @@ X11_Xinput_INCLUDE_PATH:PATH=X11_Xinput_INCLUDE_PATH-NOTFOUND
 X11_Xinput_LIB:FILEPATH=X11_Xinput_LIB-NOTFOUND
 
 //Path to a file.
-X11_Xkb_INCLUDE_PATH:PATH=X11_Xkb_INCLUDE_PATH-NOTFOUND
+X11_Xkb_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a file.
 X11_Xkbfile_INCLUDE_PATH:PATH=X11_Xkbfile_INCLUDE_PATH-NOTFOUND
@@ -384,10 +384,10 @@ X11_Xkbfile_INCLUDE_PATH:PATH=X11_Xkbfile_INCLUDE_PATH-NOTFOUND
 X11_Xkbfile_LIB:FILEPATH=X11_Xkbfile_LIB-NOTFOUND
 
 //Path to a file.
-X11_Xkblib_INCLUDE_PATH:PATH=X11_Xkblib_INCLUDE_PATH-NOTFOUND
+X11_Xkblib_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a file.
-X11_Xlib_INCLUDE_PATH:PATH=X11_Xlib_INCLUDE_PATH-NOTFOUND
+X11_Xlib_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a file.
 X11_Xmu_INCLUDE_PATH:PATH=X11_Xmu_INCLUDE_PATH-NOTFOUND
@@ -423,13 +423,13 @@ X11_Xscreensaver_LIB:FILEPATH=X11_Xscreensaver_LIB-NOTFOUND
 X11_Xshape_INCLUDE_PATH:PATH=X11_Xshape_INCLUDE_PATH-NOTFOUND
 
 //Path to a file.
-X11_Xt_INCLUDE_PATH:PATH=X11_Xt_INCLUDE_PATH-NOTFOUND
+X11_Xt_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a library.
-X11_Xt_LIB:FILEPATH=X11_Xt_LIB-NOTFOUND
+X11_Xt_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libXt.so
 
 //Path to a file.
-X11_Xutil_INCLUDE_PATH:PATH=X11_Xutil_INCLUDE_PATH-NOTFOUND
+X11_Xutil_INCLUDE_PATH:PATH=/usr/include
 
 //Path to a file.
 X11_Xv_INCLUDE_PATH:PATH=X11_Xv_INCLUDE_PATH-NOTFOUND
@@ -465,7 +465,7 @@ atlas_lib:FILEPATH=atlas_lib-NOTFOUND
 cblas_lib:FILEPATH=cblas_lib-NOTFOUND
 
 //Dependencies for the target
-dlib_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libpthread.so;general;/usr/lib/x86_64-linux-gnu/libnsl.so;
+dlib_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libpthread.so;general;/usr/lib/x86_64-linux-gnu/libnsl.so;general;/usr/lib/x86_64-linux-gnu/libSM.so;general;/usr/lib/x86_64-linux-gnu/libICE.so;general;/usr/lib/x86_64-linux-gnu/libX11.so;
 
 //Dependencies for the target
 dlib__LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libboost_python.so;general;/usr/lib/x86_64-linux-gnu/libpython2.7.so;general;dlib;
@@ -594,11 +594,21 @@ CMAKE_EXPORT_COMPILE_COMMANDS-ADVANCED:INTERNAL=1
 CMAKE_GENERATOR:INTERNAL=Unix Makefiles
 //Name of generator toolset.
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
+//Have function connect
+CMAKE_HAVE_CONNECT:INTERNAL=1
+//Have function gethostbyname
+CMAKE_HAVE_GETHOSTBYNAME:INTERNAL=1
+//Have function remove
+CMAKE_HAVE_REMOVE:INTERNAL=1
+//Have function shmat
+CMAKE_HAVE_SHMAT:INTERNAL=1
 //Start directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/tools/python
 //Install .so files without execute permission.
 CMAKE_INSTALL_SO_NO_EXE:INTERNAL=1
+//Have library ICE
+CMAKE_LIB_ICE_HAS_ICECONNECTIONNUMBER:INTERNAL=1
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM
@@ -667,6 +677,8 @@ CMAKE_USE_RELATIVE_PATHS-ADVANCED:INTERNAL=1
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding PythonLibs
 FIND_PACKAGE_MESSAGE_DETAILS_PythonLibs:INTERNAL=[/usr/lib/x86_64-linux-gnu/libpython2.7.so][/usr/include/python2.7;/usr/include/x86_64-linux-gnu/python2.7][v2.7.8(2.6)]
+//Details about finding X11
+FIND_PACKAGE_MESSAGE_DETAILS_X11:INTERNAL=[/usr/lib/x86_64-linux-gnu/libX11.so][/usr/include]
 //Result of TRY_COMPILE
 HAVE_SIZE_OF_VOID_PTR:INTERNAL=TRUE
 //Have include stddef.h
@@ -699,6 +711,8 @@ SIZE_OF_VOID_PTR:INTERNAL=8
 X11_ICE_INCLUDE_PATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: X11_ICE_LIB
 X11_ICE_LIB-ADVANCED:INTERNAL=1
+//Have library /usr/lib/x86_64-linux-gnu/libX11.so
+X11_LIB_X11_SOLO:INTERNAL=1
 //ADVANCED property for variable: X11_SM_INCLUDE_PATH
 X11_SM_INCLUDE_PATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: X11_SM_LIB

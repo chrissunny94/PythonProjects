@@ -285,6 +285,30 @@ src/dlib.cpp.s:
 	$(MAKE) -f CMakeFiles/dlib_.dir/build.make CMakeFiles/dlib_.dir/src/dlib.cpp.s
 .PHONY : src/dlib.cpp.s
 
+src/gui.o: src/gui.cpp.o
+.PHONY : src/gui.o
+
+# target to build an object file
+src/gui.cpp.o:
+	$(MAKE) -f CMakeFiles/dlib_.dir/build.make CMakeFiles/dlib_.dir/src/gui.cpp.o
+.PHONY : src/gui.cpp.o
+
+src/gui.i: src/gui.cpp.i
+.PHONY : src/gui.i
+
+# target to preprocess a source file
+src/gui.cpp.i:
+	$(MAKE) -f CMakeFiles/dlib_.dir/build.make CMakeFiles/dlib_.dir/src/gui.cpp.i
+.PHONY : src/gui.cpp.i
+
+src/gui.s: src/gui.cpp.s
+.PHONY : src/gui.s
+
+# target to generate assembly for a file
+src/gui.cpp.s:
+	$(MAKE) -f CMakeFiles/dlib_.dir/build.make CMakeFiles/dlib_.dir/src/gui.cpp.s
+.PHONY : src/gui.cpp.s
+
 src/image.o: src/image.cpp.o
 .PHONY : src/image.o
 
@@ -578,6 +602,9 @@ help:
 	@echo "... src/dlib.o"
 	@echo "... src/dlib.i"
 	@echo "... src/dlib.s"
+	@echo "... src/gui.o"
+	@echo "... src/gui.i"
+	@echo "... src/gui.s"
 	@echo "... src/image.o"
 	@echo "... src/image.i"
 	@echo "... src/image.s"

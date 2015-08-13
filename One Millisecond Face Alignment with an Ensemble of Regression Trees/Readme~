@@ -1,0 +1,35 @@
+Instructions for using the dlib library
+
+
+
+
+
+IMP:
+sudo su
+nautilus
+go to the python_examples folder and delete the build folder 
+
+(you will need the complile the .bat file again)
+
+1) sudo apt-get install libboost-python-dev cmake
+
+2) cd to dlib-18.15/python_examples
+
+3) ./compile_dlib_python_module.bat 
+
+4) sudo cp dlib.so /usr/local/lib/python2.7/dist-packages/
+
+5) sudo apt-get install python-scipy
+
+6) sudo apt-get install python-numpy
+
+7) sudo apt-get install python-cython
+
+8) sudo apt-get install python-six
+
+9) sudo apt-get install python-skimage
+
+
+
+for executing the face-landmark... you will need to download the template from
+http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download

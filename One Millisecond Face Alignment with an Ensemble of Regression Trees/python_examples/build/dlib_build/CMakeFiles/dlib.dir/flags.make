@@ -7,7 +7,7 @@ C_FLAGS = -O3 -DNDEBUG -I/usr/include/python2.7 -I"/home/stuxnet/Desktop/project
 
 C_DEFINES = -DDLIB_JPEG_STATIC
 
-CXX_FLAGS =  -DDLIB_PNG_SUPPORT -DDLIB_JPEG_SUPPORT -DDLIB_NO_GUI_SUPPORT -O3 -DNDEBUG -I/usr/include/python2.7 -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/.." -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng" -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib"    -fPIC -Wreturn-type
+CXX_FLAGS =  -DDLIB_PNG_SUPPORT -DDLIB_JPEG_SUPPORT -O3 -DNDEBUG -I/usr/include/python2.7 -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/.." -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/libpng" -I"/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/dlib/external/zlib"    -fPIC -Wreturn-type
 
 CXX_DEFINES = -DDLIB_JPEG_STATIC
 

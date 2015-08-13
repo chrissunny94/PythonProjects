@@ -1459,6 +1459,126 @@ external/zlib/zutil.s:
 .PHONY : external/zlib/zutil.s
 
 # target to build an object file
+gui_core/gui_core_kernel_1.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.o
+.PHONY : gui_core/gui_core_kernel_1.o
+
+# target to preprocess a source file
+gui_core/gui_core_kernel_1.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.i
+.PHONY : gui_core/gui_core_kernel_1.i
+
+# target to generate assembly for a file
+gui_core/gui_core_kernel_1.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.s
+.PHONY : gui_core/gui_core_kernel_1.s
+
+# target to build an object file
+gui_core/gui_core_kernel_2.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.o
+.PHONY : gui_core/gui_core_kernel_2.o
+
+# target to preprocess a source file
+gui_core/gui_core_kernel_2.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.i
+.PHONY : gui_core/gui_core_kernel_2.i
+
+# target to generate assembly for a file
+gui_core/gui_core_kernel_2.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.s
+.PHONY : gui_core/gui_core_kernel_2.s
+
+# target to build an object file
+gui_widgets/base_widgets.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.o
+.PHONY : gui_widgets/base_widgets.o
+
+# target to preprocess a source file
+gui_widgets/base_widgets.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.i
+.PHONY : gui_widgets/base_widgets.i
+
+# target to generate assembly for a file
+gui_widgets/base_widgets.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.s
+.PHONY : gui_widgets/base_widgets.s
+
+# target to build an object file
+gui_widgets/canvas_drawing.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.o
+.PHONY : gui_widgets/canvas_drawing.o
+
+# target to preprocess a source file
+gui_widgets/canvas_drawing.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.i
+.PHONY : gui_widgets/canvas_drawing.i
+
+# target to generate assembly for a file
+gui_widgets/canvas_drawing.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.s
+.PHONY : gui_widgets/canvas_drawing.s
+
+# target to build an object file
+gui_widgets/drawable.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.o
+.PHONY : gui_widgets/drawable.o
+
+# target to preprocess a source file
+gui_widgets/drawable.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.i
+.PHONY : gui_widgets/drawable.i
+
+# target to generate assembly for a file
+gui_widgets/drawable.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.s
+.PHONY : gui_widgets/drawable.s
+
+# target to build an object file
+gui_widgets/fonts.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.o
+.PHONY : gui_widgets/fonts.o
+
+# target to preprocess a source file
+gui_widgets/fonts.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.i
+.PHONY : gui_widgets/fonts.i
+
+# target to generate assembly for a file
+gui_widgets/fonts.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.s
+.PHONY : gui_widgets/fonts.s
+
+# target to build an object file
+gui_widgets/style.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.o
+.PHONY : gui_widgets/style.o
+
+# target to preprocess a source file
+gui_widgets/style.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.i
+.PHONY : gui_widgets/style.i
+
+# target to generate assembly for a file
+gui_widgets/style.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.s
+.PHONY : gui_widgets/style.s
+
+# target to build an object file
+gui_widgets/widgets.o:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.o
+.PHONY : gui_widgets/widgets.o
+
+# target to preprocess a source file
+gui_widgets/widgets.i:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.i
+.PHONY : gui_widgets/widgets.i
+
+# target to generate assembly for a file
+gui_widgets/widgets.s:
+	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.s
+.PHONY : gui_widgets/widgets.s
+
+# target to build an object file
 image_loader/jpeg_loader.o:
 	cd "/home/stuxnet/Desktop/projecthumeur/One Millisecond Face Alignment with an Ensemble of Regression Trees/python_examples/build" && $(MAKE) -f dlib_build/CMakeFiles/dlib.dir/build.make dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.o
 .PHONY : image_loader/jpeg_loader.o
@@ -2167,6 +2287,30 @@ help:
 	@echo "... external/zlib/zutil.o"
 	@echo "... external/zlib/zutil.i"
 	@echo "... external/zlib/zutil.s"
+	@echo "... gui_core/gui_core_kernel_1.o"
+	@echo "... gui_core/gui_core_kernel_1.i"
+	@echo "... gui_core/gui_core_kernel_1.s"
+	@echo "... gui_core/gui_core_kernel_2.o"
+	@echo "... gui_core/gui_core_kernel_2.i"
+	@echo "... gui_core/gui_core_kernel_2.s"
+	@echo "... gui_widgets/base_widgets.o"
+	@echo "... gui_widgets/base_widgets.i"
+	@echo "... gui_widgets/base_widgets.s"
+	@echo "... gui_widgets/canvas_drawing.o"
+	@echo "... gui_widgets/canvas_drawing.i"
+	@echo "... gui_widgets/canvas_drawing.s"
+	@echo "... gui_widgets/drawable.o"
+	@echo "... gui_widgets/drawable.i"
+	@echo "... gui_widgets/drawable.s"
+	@echo "... gui_widgets/fonts.o"
+	@echo "... gui_widgets/fonts.i"
+	@echo "... gui_widgets/fonts.s"
+	@echo "... gui_widgets/style.o"
+	@echo "... gui_widgets/style.i"
+	@echo "... gui_widgets/style.s"
+	@echo "... gui_widgets/widgets.o"
+	@echo "... gui_widgets/widgets.i"
+	@echo "... gui_widgets/widgets.s"
 	@echo "... image_loader/jpeg_loader.o"
 	@echo "... image_loader/jpeg_loader.i"
 	@echo "... image_loader/jpeg_loader.s"

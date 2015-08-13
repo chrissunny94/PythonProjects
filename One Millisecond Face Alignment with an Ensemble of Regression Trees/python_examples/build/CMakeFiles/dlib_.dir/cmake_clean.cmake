@@ -15,6 +15,7 @@ FILE(REMOVE_RECURSE
   "CMakeFiles/dlib_.dir/src/object_detection.cpp.o"
   "CMakeFiles/dlib_.dir/src/shape_predictor.cpp.o"
   "CMakeFiles/dlib_.dir/src/correlation_tracker.cpp.o"
+  "CMakeFiles/dlib_.dir/src/gui.cpp.o"
   "dlib.pdb"
   "dlib.so"
 )

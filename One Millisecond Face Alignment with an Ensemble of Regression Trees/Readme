@@ -1,3 +1,15 @@
+Instructions for using the dlib library
+
+
+
+
+
+IMP:
+sudo su
+nautilus
+go to the python_examples folder and delete the build folder 
+
+(you will need the complile the .bat file again)
 
 1) sudo apt-get install libboost-python-dev cmake
 
@@ -16,3 +28,44 @@
 8) sudo apt-get install python-six
 
 9) sudo apt-get install python-skimage
+
+
+
+for executing the face-landmark... you will need to download the template from
+http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download
+
+
+
+This example program shows how to find frontal human faces in an image and
+#   estimate their pose.  The pose takes the form of 68 landmarks.  These are
+#   points on the face such as the corners of the mouth, along the eyebrows, on
+#   the eyes, and so forth.
+#
+#   This face detector is made using the classic Histogram of Oriented
+#   Gradients (HOG) feature combined with a linear classifier, an image pyramid,
+#   and sliding window detection scheme.  The pose estimator was created by
+#   using dlib's implementation of the paper:
+#      One Millisecond Face Alignment with an Ensemble of Regression Trees by
+#      Vahid Kazemi and Josephine Sullivan, CVPR 2014
+#   and was trained on the iBUG 300-W face landmark dataset.
+#
+#   Also, note that you can train your own models using dlib's machine learning
+#   tools. See train_shape_predictor.py to see an example.
+#
+#   You can get the shape_predictor_68_face_landmarks.dat file from:
+#   http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2
+#
+# COMPILING THE DLIB PYTHON INTERFACE
+#   Dlib comes with a compiled python interface for python 2.7 on MS Windows. If
+#   you are using another python version or operating system then you need to
+#   compile the dlib python interface before you can use this file.  To do this,
+#   run compile_dlib_python_module.bat.  This should work on any operating
+#   system so long as you have CMake and boost-python installed.
+#   On Ubuntu, this can be done easily by running the command:
+#       sudo apt-get install libboost-python-dev cmake
+#
+#   Also note that this example requires scikit-image which can be installed
+#   via the command:
+#       pip install -U scikit-image
+#   Or downloaded from http://scikit-image.org/download.html. 
+
