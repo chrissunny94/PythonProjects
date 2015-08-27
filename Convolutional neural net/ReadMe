@@ -47,6 +47,21 @@ So now if we run the weights matrix over  a huge area with the same shapes it wi
 
 
 
+_____________________________________________________________________
+Possible algorithm
+
+Lets say we have a good Weights matrix , now lets run the matrix over the entire image .
+This will result in what could be considered as a contour map .
+This map could be then used to figuer out the regions where a face exists .
+Now the data set will also be continous . We will also be looking into the gradient of the neurla network as well .
+
+
+
+Gradient of a face would be very much unique for a good weights matrix and vice versa.
+
+
+
+
 
 
 
