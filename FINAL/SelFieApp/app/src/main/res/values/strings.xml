@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SelFieApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_add_students">AddStudentsActivity</string>
+    <string name="title_activity_take_attendance">TakeAttendanceActivity</string>
+    <string name="title_activity_student_already_added">StudentAlreadyAddedActivity</string>
+    <string name="title_activity_add_roll_number">AddRollNumberActivity</string>
+    <string name="title_activity_add_success">AddSuccessActivity</string>
+</resources>
