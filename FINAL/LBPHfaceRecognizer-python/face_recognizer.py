@@ -1,17 +1,15 @@
 import cv2, os
 import numpy as np
 from PIL import Image
-print "\n1.Imported all the Libraries"
+from matplotlib import pyplot as plt
 
+print "\n1.Imported all the Libraries"
+##################################
 
 cascadePath = "haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascadePath)
-print "\n2.Made the faceCascade Method"
-
-
-
-
-
+print "\n2.Made the faceCascade Object"
+###################################
 
 def get_Faces_Labels_AndTrain_LBPH(path , delay ):
     recognizer = cv2.createLBPHFaceRecognizer()
@@ -33,7 +31,11 @@ def get_Faces_Labels_AndTrain_LBPH(path , delay ):
             count= count +1
             print "COUNT = " , count
             faces.append(image_pil [y: y + h, x: x + w])
+            IMG =image_pil[y: y + h, x: x + w]
             cv2.imshow("Adding faces to traning set...", image_pil[y: y + h, x: x + w])
+            #plt.imshow(IMG, cmap = 'gray', interpolation = 'bicubic')
+            #plt.xticks([]), plt.yticks([])
+            #plt.show()
             cv2.waitKey(delay)
             labels.append(nbr)
             print "recognizer updated... NUMBER OF FACES =", len(faces) , "Number of Lables =" , len(labels)
@@ -46,14 +48,8 @@ def get_Faces_Labels_AndTrain_LBPH(path , delay ):
     print "USED THE GET FACES FUNCTION"
     print "Returing the Recognizer"
     return recognizer
-
-
-
-
-
-
-print "\n4.Made the GetFaces&Labels Method"
-
+print "\n4.Made the get_Faces_Labels_AndTrain_LBPH(path , delay ), returns recognizer Method"
+###################################################################################
 def detect_face_LBPH( path , delay , recognizer):
     print "PATH=",path
     image_paths = [os.path.join(path,f)  for f in os.listdir(path)if not f.endswith('.zzzzzzzzzzzzzz')]
@@ -83,15 +79,18 @@ def detect_face_LBPH( path , delay , recognizer):
     cv2.destroyAllWindows()        
     print "USED THE GET FACES FUNCTION"
     return 1
-print "\n5.Made detect_face Method"
+print "\n5.Made detect_face_LBPH( path , delay , recognizer) Method"
+###########################################################
 
-
-print "*****************************"
+print "***************************** MAIN TEST PROGRAM STARTS HERE*****************************************************************************************************"
 
 print "Recognizer build begin................................................................................................................................................................................................................................."
 face_recognizer = get_Faces_Labels_AndTrain_LBPH('./faces' , 1)
 print "..................................................................................................................................................................................................................................Recognizer build Ends."
 detect_face_LBPH(path = './test', delay = 50 ,  recognizer = face_recognizer)
+
+
+
 
 
 
