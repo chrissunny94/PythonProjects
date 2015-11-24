@@ -1,0 +1,14 @@
+1)face_recognizer.py 
+this python file contains all the methods for invoking 
+     LBPH faceRecognition algorithm
+           >Train
+           >DetectFaceInDB
+
+2)gui.py  
+This is the python scipt for the GUI of the PythonProtoype
+     >gui will have a GridLayout
+     >All the different Subjects to be tracked are to be ShownIn this field
+     >The GUI will keep trying to match the faces in the frame folder
+     >When there is a successfull hit , the picture gets crossed in the GUI (Meaning subject Found)
+     
+3)
