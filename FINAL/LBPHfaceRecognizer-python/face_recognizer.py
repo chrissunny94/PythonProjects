@@ -49,6 +49,13 @@ def get_Faces_Labels_AndTrain_LBPH(path , delay ):
     print "Returing the Recognizer"
     return recognizer
 print "\n4.Made the get_Faces_Labels_AndTrain_LBPH(path , delay ), returns recognizer Method"
+
+
+
+
+
+
+
 ###################################################################################
 def detect_face_LBPH( path , delay , recognizer):
     print "PATH=",path
@@ -81,6 +88,31 @@ def detect_face_LBPH( path , delay , recognizer):
     return 1
 print "\n5.Made detect_face_LBPH( path , delay , recognizer) Method"
 ###########################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 print "***************************** MAIN TEST PROGRAM STARTS HERE*****************************************************************************************************"
 
