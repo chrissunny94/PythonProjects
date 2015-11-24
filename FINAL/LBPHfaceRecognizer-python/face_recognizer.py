@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 print "\n1.Imported all the Libraries"
 ##################################
 
-cascadePath = "haarcascade_frontalface_default.xml"
+cascadePath = "cascade/haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascadePath)
 print "\n2.Made the faceCascade Object"
 ###################################

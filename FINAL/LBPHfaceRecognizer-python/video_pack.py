@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import time
-cascadePath = "haarcascade_frontalface_default.xml"
+cascadePath = "cascade/haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascadePath)
 print "\n2.Made the faceCascade Object"
 ###################################
