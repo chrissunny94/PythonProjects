@@ -31,4 +31,4 @@ def get_WebCamFeed(timer , delay , Cascade):
 
 
 
-get_WebCamFeed(timer = 10 ,delay = 2 ,Cascade = faceCascade )
+get_WebCamFeed(timer = 10 ,delay = .1 ,Cascade = faceCascade )
