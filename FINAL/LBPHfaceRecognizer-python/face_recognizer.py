@@ -13,6 +13,7 @@ print "\n2.Made the faceCascade Object"
 
 def get_Faces_Labels_AndTrain_LBPH(path , delay ):
     recognizer = cv2.createLBPHFaceRecognizer()
+    #recognizer = cv2.createEigenFaceRecognizer()
     print "\nMade the LBPH(LocalBinaryPatternHistogram) recognizer "
     print "Adding  PATH=",path
     image_paths = [os.path.join(path,f)  for f in os.listdir(path)if not f.endswith('.zzzzzzzzzzzzzz')]
@@ -159,6 +160,8 @@ print "Recognizer build begin...................................................
 face_recognizer = get_Faces_Labels_AndTrain_LBPH('./faces' , 1)
 print "..................................................................................................................................................................................................................................Recognizer build Ends."
 detect_face_LBPH(path = './test', delay = 1 ,  recognizer = face_recognizer)
+cv2.destroyAllWindows()
+print "End of Program.........................................................."
 
 
 

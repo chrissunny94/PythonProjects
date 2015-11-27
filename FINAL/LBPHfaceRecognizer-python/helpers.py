@@ -1,14 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
 def get_registry_entry(roll_number, register_filename):
 	"""
 	Returns: str name, int frequency from register_filename. It requires roll_number integer.
@@ -44,5 +34,11 @@ def update_registry_entry(roll_number, name, frequency, register_filename):
 	with open(register_filename, "w") as f:
 		f.write(register_updated)
 
+update_registry_entry(1, "nikhil", 0, "DB/listofstudents")
+update_registry_entry(2, "mansi", 0, "DB/listofstudents")
+update_registry_entry(3, "vismitha", 0, "DB/listofstudents")
+update_registry_entry(4, "ganesh", 0, "DB/listofstudents")
+update_registry_entry(1, "nikhil s", 0, "DB/listofstudents")
 
+print get_registry_entry(1, "DB/listofstudents")
 
